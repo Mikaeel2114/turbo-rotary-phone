@@ -1,0 +1,7 @@
+# Settings used while a match starts and during respawn protection.
+# Reload with /bedfight reload.
+countdown-seconds: 5
+# The countdown sound switches to countdown-last at this number.
+countdown-sound-start: 3
+# A player may move after respawning, but cannot be damaged for this many seconds.
+spawn-protection-seconds: 1

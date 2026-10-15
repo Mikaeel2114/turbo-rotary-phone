@@ -1,0 +1,12 @@
+# Mode used by plain "/bedfight" (1v1, 2v2 or 3v3)
+default-mode: 1v1
+# World whose spawn is used as lobby after a match (empty = first loaded world)
+lobby-world: ""
+# Countdown and spawn protection options live in gamestart.yml
+death-title:
+  enabled: true
+  title: "&c&lYOU DIED!"
+  subtitle: "&eRespawning in &c%seconds%s"
+  fade-in-ticks: 0
+  stay-ticks: 25
+  fade-out-ticks: 0
